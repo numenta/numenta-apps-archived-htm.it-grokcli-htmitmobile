@@ -1,4 +1,4 @@
 boto==2.27.0
 fabric==1.11.1
 jenkinsapi==0.2.25
-PyYAML==3.10
+PyYAML==5.1
